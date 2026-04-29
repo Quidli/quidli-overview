@@ -1,7 +1,3 @@
-# quidli-overview
-Social-based token distribution dApp powered by an open identity registry (Quidli Connect) — send tokens to social accounts
-
-
 # Quidli Connect — The Underlying Infrastructure
 
 Quidli Connect (QC) is an open social identity registry and API that maps social accounts to blockchain wallets (EVM & Solana), enabling a new primitive: wallet routing.
@@ -228,4 +224,5 @@ This ensures broad reach and composability across the Web3 landscape.
 
 # Quidli architecture
 
-<img width="2724" height="1540" alt="Quidli architecture" src="https://github.com/user-attachments/assets/ed2eb0b3-665f-407c-9a1c-a0092e582615" />
+<img width="2724" height="1540" alt="Quidli architecture" src="https://github.com/user-attachments/assets/76dce8f3-6807-4590-914b-9447ff67ee15" />
+
