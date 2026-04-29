@@ -20,7 +20,7 @@ Users maintain full control and can:
 
 Quidli Connect is designed as a developer platform:
 * All features are accessible via API
-* Powers applications like quidli.xyz, bots, and third-party integrations
+* Powers applications like [quidli.xyz](quidli.xyz), bots, and third-party integrations
 * Enables programmable token distribution, identity resolution, and wallet interactions
 
 ### Agent-Native Access (x402)
@@ -127,7 +127,7 @@ By abstracting wallets behind social identity, QC enables:
 
 # quidli.xyz — Social Token Distribution Infrastructure
 
-Quidli is a decentralized application that enables seamless token distribution using social graphs instead of wallet addresses.
+[quidli.xyz](quidli.xyz) is a decentralized application that enables seamless token distribution using social graphs instead of wallet addresses.
 
 It acts as a “Mailchimp for tokens”, allowing users to send, receive, and manage token campaigns as easily as sending a message—without requiring recipients to have prior blockchain knowledge or even a wallet.
 
@@ -170,7 +170,7 @@ This allows highly targeted & programmable distribution campaigns.
 
 Users can:
 
-- Launch their own tokens directly from quidli.xyz
+- Launch their own tokens directly from [quidli.xyz](quidli.xyz)
 - Automatically includes liquidity pools
 
 Token creation is streamlined through integrations like Clanker, reducing the complexity of launching onchain assets.
