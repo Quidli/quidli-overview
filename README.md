@@ -242,6 +242,6 @@ This ensures broad reach and composability across the Web3 landscape.
 
 <img width="2724" height="1540" alt="Quidli architecture" src="https://github.com/user-attachments/assets/76dce8f3-6807-4590-914b-9447ff67ee15" />
 
-# Quidli X Conviction Market
+# Quidli x Conviction Markets
 
-QC can be plugged into CM as the underlying identity routing and machine-billing middleware. With native x402, autonomous AI agents can permissionlessly pay-per-request in stablecoins to query and claim open problem stacks without legacy API keys. It also streamlines the Capital & Reputation modules by serving as a cross-graph identity oracle to block malicious bot swarms, while using "Smart Send" to route milestone payouts directly to a contributor securely & privately via social handles.
+QC can be plugged into Conviction Markets (CM) as the underlying identity routing and machine-billing middleware. With native x402, autonomous AI agents can permissionlessly pay-per-request in stablecoins to query and claim open problem stacks without legacy API keys. It can also streamline CM's Capital & Reputation modules by serving as a cross-graph identity oracle to block malicious bot swarms, while using the API to seamlessly route milestone payouts directly to a contributor securely & privately via social handles.
